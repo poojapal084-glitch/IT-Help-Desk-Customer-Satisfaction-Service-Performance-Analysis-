@@ -1,0 +1,2 @@
+# IT-Help-Desk-Customer-Satisfaction-Service-Performance-Analysis-
+Conducted an extensive data analysis project using Microsoft Excel to evaluate 100,000 IT Help Desk service request records, focusing on customer satisfaction, case severity, service agent performance, and monthly service request trends. The primary objective was to transform raw service request data into meaningful business insights 
